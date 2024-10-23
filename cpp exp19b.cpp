@@ -1,5 +1,3 @@
-//Aryaman Pathak EnTCA2 031
-//queue stl
 #include <iostream>
 #include <queue>
 using namespace std;
